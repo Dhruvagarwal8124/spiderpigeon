@@ -31,9 +31,10 @@ section{
     display:grid;
     grid-template-columns: repeat(3,1fr);
     gap:0px;
-    width:300px;
+    max-width:300px;
     justify-self: center;
-    margin:auto;
+    margin-top:3px;
+    margin-bottom:5px;
     padding-top:20px;
 }
 .cell{
@@ -68,7 +69,7 @@ button{
 }
 
 
-@media(max-width:1200px){
+@media(max-width:1267px){
     #results{
         width:100%;
         padding:5px;
@@ -76,16 +77,11 @@ button{
     body{
         padding:5px;
     }
-    
+    #game{
+        width:100%;
     #gamebody{
         width:100%;
-        align-items:center;
-        justify-content:center;
     }
-    #game{
-        width:100px;
-        max-width:300px;
-        
 }
 @media(min-width:1267px){
 
