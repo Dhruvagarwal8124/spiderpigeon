@@ -33,8 +33,7 @@ section{
     gap:0px;
     width:300px;
     justify-self: center;
-    margin-top:3px;
-    margin-bottom:5px;
+    margin:10px auto;
     padding-top:20px;
 }
 .cell{
@@ -83,7 +82,9 @@ button{
         align-items:center;
         justify-content:center;
     }
-    
+    #game{
+        width:100px;
+        max-width:300px;
         
 }
 @media(min-width:1267px){
