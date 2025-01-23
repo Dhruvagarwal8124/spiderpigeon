@@ -68,7 +68,7 @@ button{
 }
 
 
-@media(max-width:1267px){
+@media(max-width:600px){
     #results{
         width:100%;
         padding:5px;
