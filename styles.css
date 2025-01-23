@@ -78,7 +78,9 @@ button{
     body{
         padding:5px;
     }
-    
+    #game{
+        width:100%;
+        max-width:200px;
     #gamebody{
         width:100%;
     }
