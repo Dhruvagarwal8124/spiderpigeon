@@ -31,7 +31,7 @@ section{
     display:grid;
     grid-template-columns: repeat(3,1fr);
     gap:0px;
-    max-width:300px;
+    width:300px;
     justify-self: center;
     margin-top:3px;
     margin-bottom:5px;
@@ -77,8 +77,7 @@ button{
     body{
         padding:5px;
     }
-    #game{
-        width:100%;
+    
     #gamebody{
         width:100%;
     }
