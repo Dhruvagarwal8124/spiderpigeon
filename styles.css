@@ -77,9 +77,7 @@ button{
     body{
         padding:5px;
     }
-    #game{
-        justify-self:center;
-    }
+    
     #gamebody{
         width:100%;
     }
