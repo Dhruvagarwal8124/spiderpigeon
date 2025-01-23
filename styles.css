@@ -80,7 +80,11 @@ button{
     
     #gamebody{
         width:100%;
+        align-items:center;
+        justify-content:center;
     }
+    
+        
 }
 @media(min-width:1267px){
 
