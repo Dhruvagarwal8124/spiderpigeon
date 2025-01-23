@@ -79,6 +79,7 @@ button{
     }
     #game{
         justify-self:center;
+        width:100%;
     }
     #gamebody{
         width:100%;
